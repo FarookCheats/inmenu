@@ -2,8 +2,12 @@
 
 pkg install git
 
-git clone 
+git clone https://github.com/FarookCheats/inmenu
 
 ls
 
-cd
+cd inmenu
+
+ls
+
+python inmenu.py
