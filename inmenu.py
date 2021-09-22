@@ -13,4 +13,4 @@ if verfly == 'ปิด':
 	os.system("exit")
 	
 if verfly == 'เปิด':
-	 os.system("python inmenu2.py")
+	 os.system("python Shop.py")
