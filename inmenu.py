@@ -10,7 +10,7 @@ number = input("Password : ")
 
 verfly = input("เปิด หรือ ปิด :")
 if verfly == 'ปิด':
-	os.system("exit")
+	os.system("clear")
 	
 if verfly == 'เปิด':
 	 os.system("python Shop.py")
